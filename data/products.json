@@ -1,0 +1,24 @@
+[
+  {
+    "id": "neon-drift-4k",
+    "title": "Neon Drift 4K",
+    "description": "Animated cyberpunk city wallpaper with neon reflections.",
+    "price": "4.99",
+    "type": "animated",
+    "resolution": "3840 × 2160",
+    "preview": "/previews/demo-animated.svg",
+    "file": "demo-wallpaper.txt",
+    "featured": true
+  },
+  {
+    "id": "violet-horizon-4k",
+    "title": "Violet Horizon 4K",
+    "description": "Clean purple sci-fi horizon for ultrawide and 16:9 setups.",
+    "price": "2.99",
+    "type": "static",
+    "resolution": "3840 × 2160",
+    "preview": "/previews/demo-static.svg",
+    "file": "demo-wallpaper.txt",
+    "featured": false
+  }
+]
